@@ -1,1 +1,1 @@
-# intership-repo
+# internship-repo
